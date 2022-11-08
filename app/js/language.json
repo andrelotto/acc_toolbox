@@ -1,0 +1,70 @@
+{
+  "en": {
+    "btn_open": "accessibility menu",
+    "btn_close": "close",
+    "keyboard_root": "keyboard navigation",
+    "disable_animattions": "block animations",
+    "access_declaration": "accessibility statement",
+    "debug_contacts": "report an accessibility problem",
+    "reset_all_settings": "reset settings",
+    "image_without_alt": "image without text",
+    "contrast_block": {
+      "header": "color contrast",
+      "btn_monochrome": "uncolored<br>display",
+      "btn_bright": "bright<br>contrast",
+      "btn_invert": "invert<br>colors"
+    },
+    "text_block": {
+      "header": "text size",
+      "btn_font_up": "increase<br>text",
+      "btn_font_down": "decrease<br>text",
+      "btn_font_readable": "readable<br>text"
+    },
+    "content_block": {
+      "header": "highlighting content",
+      "btn_underline_links": "underline<br>links",
+      "btn_underline_headers": "underline<br>headers",
+      "btn_images_titles": "images<br>titles"
+    },
+    "zoom_block": {
+      "header": "zoom in",
+      "btn_cursor_white": "big white<br>cursor",
+      "btn_cursor_black": "big black<br>cursor",
+      "btn_zoom_in": "zoom<br>screen"
+    }
+  },
+  "pt_BR": {
+    "btn_open": "Menu de Acessibilidade",
+    "btn_close": "Fechar",
+    "keyboard_root": "Navegação pelo teclado",
+    "disable_animattions": "Bloquear animações",
+    "access_declaration": "Declaração de acessibilidade",
+    "debug_contacts": "Reportar um problema de acessibilidade",
+    "reset_all_settings": "Resetar configurações",
+    "image_without_alt": "Imagem sem texto",
+    "contrast_block": {
+      "header": "Contraste",
+      "btn_monochrome": "Exibição<br>descolorida",
+      "btn_bright": "Contraste<br>claro",
+      "btn_invert": "Inverter<br>cores"
+    },
+    "text_block": {
+      "header": "Tamanho do Texto",
+      "btn_font_up": "Aumentar<br>texto",
+      "btn_font_down": "Diminuir<br>texto",
+      "btn_font_readable": "Texto<br>legível"
+    },
+    "content_block": {
+      "header": "Destacar o conteúdo",
+      "btn_underline_links": "Sublinhar<br>links",
+      "btn_underline_headers": "Sublinhe<br>cabeçalhos",
+      "btn_images_titles": "Títulos<br>imagens"
+    },
+    "zoom_block": {
+      "header": "Zoom",
+      "btn_cursor_white": "Grande cursor<br>branco",
+      "btn_cursor_black": "Grande cursor<br>preto",
+      "btn_zoom_in": "Zoom<br>tela"
+    }
+  }
+}
