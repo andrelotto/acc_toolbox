@@ -5,8 +5,8 @@ function MicAccessTool(init) {
 	this.init = init || {
 		link: '',
 		contact: '',
-		buttonPosition: 'left',
-		forceLang: '',
+		buttonPosition: 'right',
+		forceLang: 'pt_BR',
 	};
 	
 	this.locale = @@include("language.json");
